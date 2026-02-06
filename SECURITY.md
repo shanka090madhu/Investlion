@@ -12,7 +12,7 @@ documentation, or related infrastructure, please report it privately.
 Do NOT disclose vulnerabilities publicly until they have been reviewed and addressed.
 
 ### Contact
-- Telegram: @goldenlionCEO
+- Telegram: @elzose
 - Project: InvestLion (ILION)
 
 ---
