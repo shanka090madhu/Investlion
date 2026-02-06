@@ -66,14 +66,40 @@ Additional utilities may be introduced as the platform evolves.
 
 ---
 
-## 6. Supply and Token Management
+## 6. Tokenomics
 
-- Fixed total supply
-- No minting functions
-- No hidden inflation mechanisms
+InvestLion (ILION) follows a fixed-supply, utility-driven token model designed for transparency and long-term sustainability.
 
-Any future changes related to token usage or ecosystem structure will be publicly communicated in advance.
+### Total Supply
+- Total Supply: 8,000,000,000 ILION
+- Minting: Disabled after deployment
+- Inflation: None
 
+### Distribution Overview
+
+- Ecosystem & Platform Utility: 40%
+  Used for platform access, internal rewards, incentives, and feature activation.
+
+- Community & Referrals: 25%
+  Allocated for community engagement, referral rewards, and user growth.
+
+- Development & Operations: 20%
+  Reserved for development, infrastructure, security, and maintenance.
+
+- Liquidity & Market Support: 10%
+  Allocated for controlled liquidity provisioning when required.
+
+- Strategic Reserve: 5%
+  Reserved for future strategic or ecosystem needs.
+
+### Token Control Principles
+
+- No hidden allocations
+- No private minting
+- No guaranteed returns
+- No artificial price manipulation
+
+All token movements related to the ecosystem will be communicated transparently.
 ---
 
 ## 7. Transparency Policy
